@@ -84,6 +84,7 @@
 \Read ODS (Open Office Calc) Files
 \Read TXT (tab delimited)
 \Read XLSX (Office 2007) Files
+\Read XML Spreadsheet (SpreadsheetML format)
 \Remove Columns from Existing Spreadsheet
 \Remove Rows from Existing Spreadsheet
 \Rename Worksheet
