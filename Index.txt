@@ -8,11 +8,11 @@
 \Add Columns Into Existing Spreadsheet
 \Add Combination Chart
 \Add Doughnut Chart
-\Add Header and Footer for spreadsheet
+\Add Header and Footer for Spreadsheet
 \Add Image Into Existing Spreadsheet
-\Add Image to spreadsheet
+\Add Image to Spreadsheet
 \Add Images Advanced
-\Add Images to spreadsheet
+\Add Images to Spreadsheet
 \Add Line Chart
 \Add Pie Chart
 \Add Radar Chart
@@ -28,21 +28,21 @@
 \Change Column Width and Row Height
 \Change Data in Existing Spreadsheet
 \Change Document Properties
-\convert CSV to SQL Server
-\convert CSV To XLS
-\convert ODS to SQL Server
+\Convert CSV to SQL Server
+\Convert CSV To XLS
+\Convert ODS to SQL Server
 \Convert Template To XLS
-\convert TXT to SQL Server
+\Convert TXT to SQL Server
 \Convert XLS to CSV
-\convert XLS to SQL Server
-\convert XLS to SQL Server (via CSV BULK INSERT)
+\Convert XLS to SQL Server
+\Convert XLS to SQL Server (via CSV BULK INSERT)
 \Convert XLS to TXT
 \Convert XLS to XLSX
 \Convert XLS to XML
-\convert XLS to XML and XML to XLS
-\convert XLSX to SQL Server
+\Convert XLS to XML and XML to XLS
+\Convert XLSX to SQL Server
 \Convert XML to XLS
-\Copy range
+\Copy Range
 \Copy Worksheet
 \CopyPaste Columns
 \CopyPaste Rows
@@ -84,7 +84,7 @@
 \Read Merged Cells
 \Read Number Format In Cell
 \Read ODS (Open Office Calc) Files
-\Read TXT (tab delimited)
+\Read TXT (Tab Delimited)
 \Read XLSX (Office 2007) Files
 \Read XML Spreadsheet (SpreadsheetML format)
 \Remove Columns from Existing Spreadsheet
