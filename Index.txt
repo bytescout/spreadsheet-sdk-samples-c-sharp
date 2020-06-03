@@ -44,6 +44,7 @@
 \Convert XML to XLS
 \Copy Range
 \Copy Worksheet
+\Copy Worksheet Data To Clipboard
 \CopyPaste Columns
 \CopyPaste Rows
 \Create Hello World Spreadsheet
