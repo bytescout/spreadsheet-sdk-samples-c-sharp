@@ -45,6 +45,7 @@
 \Copy Range
 \Copy Worksheet
 \Copy Worksheet Data To Clipboard
+\Copy Worksheet to Another Workbook
 \CopyPaste Columns
 \CopyPaste Rows
 \Create Hello World Spreadsheet
